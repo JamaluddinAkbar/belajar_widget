@@ -33,7 +33,7 @@ class LoginPage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.asset('image/flutter7884-removebg-preview.png',
+            Image.asset('flutter.png',
             width: 200,
             height: 200,
             ),
